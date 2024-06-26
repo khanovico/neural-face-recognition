@@ -1,1 +1,1 @@
-# Deep-Learning-Face-Recognition
+# Neural Face Recognition
