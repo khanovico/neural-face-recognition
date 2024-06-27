@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 15 14:49:19 2019
 
-@author: krish.naik
+@author: Khanovict
 """
 
 # Face Recognition
